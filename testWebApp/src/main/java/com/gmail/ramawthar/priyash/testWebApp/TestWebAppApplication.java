@@ -8,8 +8,7 @@ public class TestWebAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TestWebAppApplication.class, args);
-		//test comment 2
-		
 	}
+	//test commit
 
 }
